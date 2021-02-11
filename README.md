@@ -1,8 +1,6 @@
 # CloudenabledWebApp
 CloudenabledWebApp for maven web app
 
-point to : https://dev.azure.com/anilbidari0857/something%20is%20coming/_boards/board/t/something%20is%20coming%20Team/Stories
-
 ## By: Cloudenabled
 Avantus trainign demo
 # Pre-reques:
